@@ -1,0 +1,60 @@
+Beginner Bash Tasks (1–15)
+
+
+1. Check if a directory exists; create it if not
+2. Check if a file exists and is readable
+3. Find the size of a file and display it in MB
+4. Count number of files in a directory
+5. Check available disk space and alert if below 20%
+6. Print current date, time, and hostname
+7. Rename all .txt files to .log
+8. Find and delete files older than 30 days
+9. Monitor CPU usage and print alert if above threshold
+10. Print top 5 memory-consuming processes
+11. Check if a service (nginx/apache) is running
+12. Read a file line by line and print line numbers
+13. Take input from user and validate it
+14. Create a backup of a directory using tar
+15. Check if a command exists in the system
+
+⚙️ Intermediate Bash Tasks (16–35)
+
+
+16. Rotate logs older than 7 days
+17. Monitor disk usage and send email alert
+18. Check multiple servers’ availability using SSH
+19. Parse a log file and count HTTP status codes
+20. Automate user creation and password setup
+21. Kill processes consuming more than X% CPU
+22. Automate daily backups and store with timestamp
+23. Validate if ports are open on a server
+24. Compare two files and print differences
+25. Check if an application URL is responding (HTTP 200)
+26. Monitor memory usage and restart service if high
+27. Extract specific columns from a CSV file
+28. Schedule cron jobs via script
+29. Create a menu-driven shell script
+30. Monitor filesystem inode usage
+31. Encrypt and decrypt files using gpg
+32. Check SSL certificate expiry date
+33. Automate Git repository backup
+34. Monitor load average and log spikes
+35. Read config file and apply values dynamically
+
+🚀 Advanced / Real-World DevOps Tasks (36–50)
+
+36. Jenkins pre-deployment validation script
+37. Blue-green deployment automation using Bash
+38. Zero-downtime service restart script
+39. Kubernetes pod health checker using kubectl
+40. Auto-scale EC2 instances based on CPU (CLI based)
+41. Parse CloudWatch logs and generate report
+42. Docker container cleanup automation
+43. Rollback deployment on failure
+44. Monitor Nginx logs and block abusive IPs
+45. AWS resource inventory script (EC2, S3, IAM)
+46. Validate environment variables before app startup
+47. CI/CD pipeline failure notifier
+48. Server hardening script (security baseline)
+49. Disaster recovery validation script
+50. Multi-server health check dashboard using Bash
